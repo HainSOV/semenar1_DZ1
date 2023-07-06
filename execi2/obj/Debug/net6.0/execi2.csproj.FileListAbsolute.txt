@@ -1,0 +1,15 @@
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.csproj.AssemblyReference.cache
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.AssemblyInfoInputs.cache
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.AssemblyInfo.cs
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.csproj.CoreCompileInputs.cache
+D:\HainPROG\C#\DZ1\execi2\bin\Debug\net6.0\execi2.exe
+D:\HainPROG\C#\DZ1\execi2\bin\Debug\net6.0\execi2.deps.json
+D:\HainPROG\C#\DZ1\execi2\bin\Debug\net6.0\execi2.runtimeconfig.json
+D:\HainPROG\C#\DZ1\execi2\bin\Debug\net6.0\execi2.dll
+D:\HainPROG\C#\DZ1\execi2\bin\Debug\net6.0\execi2.pdb
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.dll
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\refint\execi2.dll
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.pdb
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\execi2.genruntimeconfig.cache
+D:\HainPROG\C#\DZ1\execi2\obj\Debug\net6.0\ref\execi2.dll
